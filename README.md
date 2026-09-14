@@ -40,4 +40,5 @@ PROGRESS_PAGE:3
 ```
 
 2. Check the output folder for binfiles and dithered png previews!
+   
 ![example_output_files](./assets/example_output_files.png)
