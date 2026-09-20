@@ -10,11 +10,11 @@ A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is 
 
 ## Dependencies
 
-### C++ Dependencies
+### C++ converter_app Dependencies
 * **Poppler C++** [libpoppler-cpp-dev](https://poppler.freedesktop.org/api/cpp/).
 * Filesystem library (`<filesystem>`).
 
-### Python Dependencies
+### Python web GUI Dependencies
 * FastAPI
 * Uvicorn
 
