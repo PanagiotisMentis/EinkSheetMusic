@@ -1,4 +1,4 @@
-#EinkSheetMusic
+# EinkSheetMusic
 
 Code for the EinkSheetMusic tablet. No more carrying around stacks of paper music or staring at a bright LCD screen.
 
