@@ -31,7 +31,7 @@ A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is 
 ```shell
 .\build\PDFtoBin.exe "./binfiles" "nocturne.pdf"   
 ```
-It should give something like:
+   It should give something like:
 ```
 TOTAL_PAGES:3
 PROGRESS_PAGE:1
