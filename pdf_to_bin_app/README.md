@@ -20,12 +20,12 @@ A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is 
 
 ## Usage
 
-### GUI
+### Web GUI
 1. Start ./server/main.py
 2. Connect to the appropriate machine IP
 3. Upload PDF files and see bitmap results!
 
-### converter_app
+### C++ converter_app
 
 1. Run the executable, passing the output directory and input PDF as arguments.
 ```shell
