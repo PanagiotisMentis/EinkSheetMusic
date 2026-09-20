@@ -2,13 +2,13 @@
 
 A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is integrated with a Python FastAPI server for a web GUI and will soon be able to host an HTTP server to serve image files to requesting ESP32-based e-ink driver boards.
 
-## Overview
+## ℹ️ Overview
 
 1. **C++ converter_app**: Dithers and packs the PDF data to a bitmap to be displayed on GXEPD2 e-ink screens.
 2. **Python FastAPI Server**: Provides a web GUI to remotely upload PDFs (output bitmaps stored locally) 
 3. **(In-Progress) ESP32 Integration**: Provides an HTTP server to serve image bitmaps to a requesting ESP32 e-ink board.
 
-## Dependencies
+## 🛠️Dependencies
 
 ### C++ converter_app Dependencies
 * **Poppler C++** [libpoppler-cpp-dev](https://poppler.freedesktop.org/api/cpp/).
@@ -18,7 +18,7 @@ A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is 
 * FastAPI
 * Uvicorn
 
-## Usage
+## 🚀 Usage
 
 ### Web GUI
 1. Start ./server/main.py
