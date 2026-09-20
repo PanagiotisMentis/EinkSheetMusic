@@ -14,3 +14,5 @@ Code for the EinkSheetMusic tablet. No more carrying around stacks of paper musi
 2. Convert desired PDFs to .bin files with the **pdf_to_bin_app**
 3. Use a USB flash drive to load output .bin files to the tablet's SD card.
 4. Insert the SD card and read music on the tablet!
+
+![Tablet Picture](./assets/tablet.png)
