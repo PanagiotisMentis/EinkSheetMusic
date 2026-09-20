@@ -1,6 +1,6 @@
 # PDFtoBin E-ink Image Converter
 
-A high-performance C++ backend utility integrated with a Python FastAPI server and GUI. This system converts PDF documents (such as sheet music) into dithered, bit-packed binary files formatted specifically for GxEPD2 e-paper displays driven by an ESP32, while also generating PNG previews.
+A C++ PDF to bitmap image converter for the GXEPD2 e-ink display library. It is integrated with a Python FastAPI server for a web GUI and will soon be able to host an HTTP server to serve image files to requesting ESP32-based e-ink driver boards.
 
 ## Overview
 
@@ -40,4 +40,5 @@ PROGRESS_PAGE:3
 ```
 
 2. Check the output folder for binfiles and dithered png previews!
+   
 ![example_output_files](./assets/example_output_files.png)
