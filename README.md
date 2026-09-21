@@ -21,7 +21,7 @@ wirelessly.
 ## ✍️ Author
 I'm Panagiotis Mentis and I developed this passion project as a solution to my music problems as a musician.
 
-Developer: Panagiotis Mentis - Sophomore, Computer Engineering @ Virginia Tech
+🧑‍💼 Developer: Panagiotis Mentis - Sophomore, Computer Engineering @ Virginia Tech
 
 ## 🚀 Usage
 > [!NOTE]
