@@ -1,6 +1,6 @@
 # EinkSheetMusic
 
-> This repo contains code for the EinkSheetMusic tablet.
+> *This repo contains code for the EinkSheetMusic tablet.*
 
 ## 🌟Highlights
 - Light and portable
@@ -8,6 +8,13 @@
 - No more carrying around stacks of paper music or bright LCDs
 
 ## ℹ️ Overview
+The EinkSheetMusic tablet is a device meant for viewing sheet music on an e-ink display. Paper sheet music is too cluttered
+and LCD displays are too bright to stare at. It renders any PDF, so reading digital sheet music is easy. It has an SD card
+for saving files and buttons to turn the page left, turn the page right, and put the device in sleep mode. Soon, there will
+be a remote file sending feature to transfer and convert PDFs wirelessly (from a phone/laptop) and a foot pedal to turn pages
+wirelessly.
+
+
 1. **esp32_app**: Renders .bin images on the Good Display ESP32-L Series e-ink driver board from a connected SD card.
 2. **pdf_to_bin_app**: Converts PDFs to .bin image files. Has server and web interface as well as command-line executable.
 
