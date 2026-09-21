@@ -1,6 +1,12 @@
 # EinkSheetMusic
 
-Code for the EinkSheetMusic tablet. No more carrying around stacks of paper music or staring at a bright LCD screen.
+> This repo contains code for the EinkSheetMusic tablet.
+
+## 🌟Highlights
+- Light and portable
+- Easy access to PDF sheet music
+- No more carrying around stacks of paper music
+- No more staring at bright LCD
 
 ## ℹ️ Overview
 1. **esp32_app**: Renders .bin images on the Good Display ESP32-L Series e-ink driver board from a connected SD card.
