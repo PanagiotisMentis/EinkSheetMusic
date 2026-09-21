@@ -5,8 +5,7 @@
 ## 🌟Highlights
 - Light and portable
 - Easy access to PDF sheet music
-- No more carrying around stacks of paper music
-- No more staring at bright LCD
+- No more carrying around stacks of paper music or bright LCDs
 
 ## ℹ️ Overview
 1. **esp32_app**: Renders .bin images on the Good Display ESP32-L Series e-ink driver board from a connected SD card.
