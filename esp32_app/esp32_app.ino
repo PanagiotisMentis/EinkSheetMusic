@@ -14,9 +14,6 @@ const size_t page_size = 81600;
 ---------------------TODO--------------------
 * Double click to jump to next or previous song
 * Switch to song when removing SD card on sleep mode
-* 
-
-
 ---------------------------------------------
 */
 
